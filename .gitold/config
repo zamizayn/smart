@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/fsssujina/smart_station.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "sujina"]
+	remote = origin
+	merge = refs/heads/sujina
+[pull]
+	rebase = false
+[branch "kiran"]
+	remote = origin
+	merge = refs/heads/kiran

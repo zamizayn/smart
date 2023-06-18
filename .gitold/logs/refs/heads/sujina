@@ -1,0 +1,212 @@
+0000000000000000000000000000000000000000 cda4c9d5d4eec1c849028e9d9af4ea66b4f4e21e Sujina <> 1672916211 +0530	branch: Created from origin/sujina
+cda4c9d5d4eec1c849028e9d9af4ea66b4f4e21e 0fc71191b6a8e5c38d4a0926c3581ca7a575ab63 Sujina <> 1672917555 +0530	commit: Dashed line
+0fc71191b6a8e5c38d4a0926c3581ca7a575ab63 0166aa7f4ec609379f9f8575afda2c446a0ce1a5 Sujina <> 1672917835 +0530	commit (merge): pubsec
+0166aa7f4ec609379f9f8575afda2c446a0ce1a5 cbe32c78dbfc78e8620247440f61956a20570ae7 Sujina <> 1672920178 +0530	commit: Settings placeholder image
+cbe32c78dbfc78e8620247440f61956a20570ae7 89437411cf40da3f33b7f8e1432c0090e7f34fc0 Sujina <> 1672920204 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+89437411cf40da3f33b7f8e1432c0090e7f34fc0 ea176c3b78383819d8836caff8cae1f6e6bd6bf2 Sujina <> 1672977315 +0530	commit: placeholder
+ea176c3b78383819d8836caff8cae1f6e6bd6bf2 b6a7afc7f3941dfb1c3aa74c22243d41caaf35a4 Sujina <> 1672980741 +0530	commit (merge): Test
+b6a7afc7f3941dfb1c3aa74c22243d41caaf35a4 c518c0dc5bde4057ffe76aeb7264714648a75377 Sujina <> 1672981217 +0530	commit (merge): Settings page updated
+c518c0dc5bde4057ffe76aeb7264714648a75377 40daa210c04f1970c756b9ccddea86f2b67fde4c Sujina <> 1673003082 +0530	commit: Account Screens, top/bottom widget
+40daa210c04f1970c756b9ccddea86f2b67fde4c 7a4fb3ee4a2ff77b12be42890076bf5acde6b629 Sujina <> 1673005562 +0530	commit: Account Screens
+7a4fb3ee4a2ff77b12be42890076bf5acde6b629 9ce4123420b260267412ceca65e45b75bf085a65 Sujina <> 1673086633 +0530	commit: notification,security switch screen
+9ce4123420b260267412ceca65e45b75bf085a65 3bca33cfc3d3806177f4374f910c1d66bc34ccb4 Sujina <> 1673087056 +0530	pull origin mannmohan: Fast-forward
+3bca33cfc3d3806177f4374f910c1d66bc34ccb4 1d5140aceee82197fc01428b447149fd4f2e1f49 Sujina <> 1673956203 +0530	commit: Account
+1d5140aceee82197fc01428b447149fd4f2e1f49 455188dcc46d3e2fd20e54f690dda6dcfcd0c760 Sujina <> 1674020368 +0530	pull origin mannmohan: Fast-forward
+455188dcc46d3e2fd20e54f690dda6dcfcd0c760 4028856e5726029a763f56577f43a073940cb6e9 Sujina <> 1674200527 +0530	commit: Group
+4028856e5726029a763f56577f43a073940cb6e9 1c0ca60a77d56392153410858f353ec4437553cb Sujina <> 1674200713 +0530	pull origin mannmohan: Fast-forward
+1c0ca60a77d56392153410858f353ec4437553cb 7a9233f1d2208d8b36edae38b21909c5e4ae678e Sujina <> 1674210411 +0530	pull origin mannmohan: Fast-forward
+7a9233f1d2208d8b36edae38b21909c5e4ae678e 8015df27dec0f0f848417d55ea2d243a6d730548 Sujina <> 1674451627 +0530	pull origin mannmohan: Fast-forward
+8015df27dec0f0f848417d55ea2d243a6d730548 2884f8c8606eba83aa65a458ce7825668cb85cda Sujina <> 1674472637 +0530	commit: Settings
+2884f8c8606eba83aa65a458ce7825668cb85cda 7716c19b23cf31929d9a07df0eb6ed7957e18fb3 Sujina <> 1674472787 +0530	pull origin mannmohan: Fast-forward
+7716c19b23cf31929d9a07df0eb6ed7957e18fb3 d0d9e26aac04bb548795c6dd2a9cd162aa2eabe4 Sujina <> 1674628368 +0530	commit: Conversation design
+d0d9e26aac04bb548795c6dd2a9cd162aa2eabe4 d349999328d9a56bb6c42b4ab8eb05d709c88d71 Sujina <> 1674651299 +0530	commit: Email/Letter
+d349999328d9a56bb6c42b4ab8eb05d709c88d71 74180d7a04d9c1ad50b1aa1800d62fff43e0ed86 Sujina <> 1674730056 +0530	commit: cloud
+74180d7a04d9c1ad50b1aa1800d62fff43e0ed86 79eea123b72e05a83b39462d7d093dfc19203765 Sujina <> 1674730227 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+79eea123b72e05a83b39462d7d093dfc19203765 84ab1427cc3f6cf8f313f0865d9cf2468c197579 Sujina <> 1674881306 +0530	commit: cloud provider
+84ab1427cc3f6cf8f313f0865d9cf2468c197579 a34209b199a2f70445e48f668f825676362d2c54 Sujina <> 1674888202 +0530	commit (merge): tab bar menu
+a34209b199a2f70445e48f668f825676362d2c54 0de376a874bdce67eeb438364da1560f16464fb0 Sujina <> 1674908302 +0530	commit: Email Inbox
+0de376a874bdce67eeb438364da1560f16464fb0 fc76e43670942c01c4ff233ccb1ac922f1384fc2 Sujina <> 1675051468 +0530	commit: home tab
+fc76e43670942c01c4ff233ccb1ac922f1384fc2 48af6644e3fab16fb131cfdc147c45ed771dc09e Sujina <> 1675051624 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+48af6644e3fab16fb131cfdc147c45ed771dc09e 9c3323bee2837452bb2c630ed9c17425b8ca1b5e Sujina <> 1675082928 +0530	commit: letter
+9c3323bee2837452bb2c630ed9c17425b8ca1b5e 8bdbd5739986b4c29c52d924801d08ecfd01ef30 Sujina <> 1675082945 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+8bdbd5739986b4c29c52d924801d08ecfd01ef30 f870ebb517fb05369032bc5d5961738d9741f44b Sujina <> 1675156502 +0530	commit: Bottom Bar Email Letter
+f870ebb517fb05369032bc5d5961738d9741f44b 4564d14b1dba8cf305bf5e630b8484d46f2172db Sujina <> 1675254977 +0530	commit: Cloud parent
+4564d14b1dba8cf305bf5e630b8484d46f2172db 1522e82de634e03b37ed155e9523d7068509e1e3 Sujina <> 1675423955 +0530	commit: Sub cloud list
+1522e82de634e03b37ed155e9523d7068509e1e3 016f58ed6d253ffae2b09881182f407117a90120 Sujina <> 1675516340 +0530	commit: test
+016f58ed6d253ffae2b09881182f407117a90120 02c1a56e5c89be8cd6b24e38bfbb79b1d7b71f99 Sujina <> 1675516356 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+02c1a56e5c89be8cd6b24e38bfbb79b1d7b71f99 ccbed93d32ff7680fc70b8e74e2474bc69b3622f Sujina <> 1675834133 +0530	commit: Get started
+ccbed93d32ff7680fc70b8e74e2474bc69b3622f 01ea7e9dab33d6fdac49312d52e61c2515c96db4 Sujina <> 1675834153 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+01ea7e9dab33d6fdac49312d52e61c2515c96db4 fc10fee1f4ec5bbd31dd8bbcb10f70041f19cc44 Sujina <> 1675834990 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+fc10fee1f4ec5bbd31dd8bbcb10f70041f19cc44 cda28b10e4bcd445990a66d61d83ba962dd8b5e5 Sujina <> 1675860177 +0530	commit: Recent char
+cda28b10e4bcd445990a66d61d83ba962dd8b5e5 6e7c929b74866a5722bf7318010ae6183eba9de5 Sujina <> 1675918140 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+6e7c929b74866a5722bf7318010ae6183eba9de5 b706339fd42c4e9d2a2b060dfb2272eedea869ac Sujina <> 1675922473 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+b706339fd42c4e9d2a2b060dfb2272eedea869ac 5a60403ef1776b98943114f45e32d3c81146813d Sujina <> 1676089621 +0530	commit: Parent Cloud, User ist Search
+5a60403ef1776b98943114f45e32d3c81146813d 1f97203c89676550cd7708e1c7205f7e4555349b Sujina <> 1676100816 +0530	pull origin mannmohan: Fast-forward
+1f97203c89676550cd7708e1c7205f7e4555349b 4d4a065fb801ef89be16a358c92a186208c62c3b Sujina <> 1676267772 +0530	commit: Sub folder creation
+4d4a065fb801ef89be16a358c92a186208c62c3b 92cddb6cfe33cbb4f260d003cb03c83210a1d10f Sujina <> 1676528737 +0530	commit: Cloud,Profile
+92cddb6cfe33cbb4f260d003cb03c83210a1d10f 55a93c0536e8e532abc6ec6a2317015bb4d55806 Sujina <> 1676606917 +0530	commit (merge): iOS SDK
+55a93c0536e8e532abc6ec6a2317015bb4d55806 d5be50cc97d03f38424e4b0ddfef139c068a78db Sujina <> 1676872526 +0530	commit: API
+d5be50cc97d03f38424e4b0ddfef139c068a78db 3c90e9f551fb3ea9bdb22a3f8b172397bb0721a1 Sujina <> 1676954358 +0530	commit: API
+3c90e9f551fb3ea9bdb22a3f8b172397bb0721a1 0f24a4e9ff621b31916ce071ed649b64f40ff204 Sujina <> 1676983742 +0530	commit: API Provider
+0f24a4e9ff621b31916ce071ed649b64f40ff204 148c7c04fa05cf8043b9503faeccf5f9a1729ab8 Sujina <> 1677042981 +0530	pull origin mannmohan: Fast-forward
+148c7c04fa05cf8043b9503faeccf5f9a1729ab8 4af741c1550f3ebad8eaada278a075627f66cd6f Sujina <> 1677235289 +0530	commit: Letter
+4af741c1550f3ebad8eaada278a075627f66cd6f 69d06303471efd32fb08c2e7bdad87fbb634562c Sujina <> 1677473997 +0530	commit (merge): test
+69d06303471efd32fb08c2e7bdad87fbb634562c e5a529009aca88567c63c77749e0797331a33b90 Sujina <> 1677475348 +0530	commit (merge): changes
+e5a529009aca88567c63c77749e0797331a33b90 5cc16594b0a673882d4dbda3750c8dd8dc700b00 Sujina <> 1677475870 +0530	commit (merge): test
+5cc16594b0a673882d4dbda3750c8dd8dc700b00 35728b73e286b7a5eefe0109463f1387686e6279 Sujina <> 1677565012 +0530	commit: Test
+35728b73e286b7a5eefe0109463f1387686e6279 f8e62108b6e6b358c831176c08f048d7a56121b2 Sujina <> 1677740143 +0530	commit (merge): Test image cropper
+f8e62108b6e6b358c831176c08f048d7a56121b2 ef1c56496cdb58e99cd71441c0dc4924220c3346 Sujina <> 1677741174 +0530	commit (merge): changes
+ef1c56496cdb58e99cd71441c0dc4924220c3346 2e458d1f4b639e8a7c5806f513da9171f387be57 Sujina <> 1677741197 +0530	pull origin devi: Merge made by the 'ort' strategy.
+2e458d1f4b639e8a7c5806f513da9171f387be57 4d64ded23411e97de6ff16fbae9a24804f7878f3 Sujina <> 1678337600 +0530	commit (merge): Cloud detail
+4d64ded23411e97de6ff16fbae9a24804f7878f3 4a45147066b6857c989fc37134f9c193f914e63d Sujina <> 1678339334 +0530	pull origin mannmohan: Fast-forward
+4a45147066b6857c989fc37134f9c193f914e63d af56e30f4841e3337744a00b0a01467dae2c143c Sujina <> 1678365528 +0530	commit: Cloud delete
+af56e30f4841e3337744a00b0a01467dae2c143c cad5623590354f6bd7dfa054d26ff3bcd1a06344 Sujina <> 1678443877 +0530	commit: Cloud image ,pdf view with action, folder delete
+cad5623590354f6bd7dfa054d26ff3bcd1a06344 be141919fd0ff17dfa329fdc6c2123c25fc53538 Sujina <> 1678709649 +0530	commit: Lost phone
+be141919fd0ff17dfa329fdc6c2123c25fc53538 92ac3f84ca8d53dc02b596a902b284674e86ecc0 Sujina <> 1678883123 +0530	commit: Change Phone number - Settings
+92ac3f84ca8d53dc02b596a902b284674e86ecc0 ae8f659ff3116beeeb5a2a50535d38aee59e881a Sujina <> 1678960898 +0530	pull origin mannmohan: Fast-forward
+ae8f659ff3116beeeb5a2a50535d38aee59e881a 92ac3f84ca8d53dc02b596a902b284674e86ecc0 Sujina <> 1678962423 +0530	reset: moving to 92ac3f84ca8d53dc02b596a902b284674e86ecc0
+92ac3f84ca8d53dc02b596a902b284674e86ecc0 d2c8e38c93365862b6956040854a2cae9cb342ed Sujina <> 1679376440 +0530	commit: Change phone number - Lost Phone section
+d2c8e38c93365862b6956040854a2cae9cb342ed f5f0d8820e61e6870dba42259b0cb4dbcb255bd8 Sujina <> 1679461734 +0530	commit: Cloud search
+f5f0d8820e61e6870dba42259b0cb4dbcb255bd8 f1f2d4de3226582a86463384cf32d27fc10845aa Sujina <> 1679478801 +0530	commit: Account Settings changes
+f1f2d4de3226582a86463384cf32d27fc10845aa e045cf4566daf1bb3928a4ba718039e06c2df366 Sujina <> 1679557392 +0530	commit (merge): Account landing page changes
+e045cf4566daf1bb3928a4ba718039e06c2df366 6ddf9dac2ea625c08891004ad551a5d320c64b7c Sujina <> 1679573771 +0530	commit (merge): Account - Headerlist changes
+6ddf9dac2ea625c08891004ad551a5d320c64b7c 58843516a8536c97cfe87b8155abad1f8591098d Sujina <> 1679632358 +0530	pull origin mannmohan: Fast-forward
+58843516a8536c97cfe87b8155abad1f8591098d f1282b51dab316ce312125084ae641a0e737cfcc Sujina <> 1679656041 +0530	commit: Header list changes
+f1282b51dab316ce312125084ae641a0e737cfcc 28ebe60bba22ff918303063d201a8eae492fa3fc Sujina <> 1679894811 +0530	commit (merge): no changes
+28ebe60bba22ff918303063d201a8eae492fa3fc 1c9a93abf997e86f18994ce98803a8664419de87 Sujina <> 1679902284 +0530	commit (merge): header bug fixing
+1c9a93abf997e86f18994ce98803a8664419de87 9ccdfb44c31b9c3caaa3033ed9e8ea5d29be00b3 Sujina <> 1679902308 +0530	pull origin devi: Merge made by the 'ort' strategy.
+9ccdfb44c31b9c3caaa3033ed9e8ea5d29be00b3 5f73f78ac2f0e60045f2c10fb843e2ea218acb38 Sujina <> 1679920107 +0530	commit: Header/Footer changes
+5f73f78ac2f0e60045f2c10fb843e2ea218acb38 df154131f927b2752d05b87bf1692df6859ee646 Sujina <> 1679980037 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+df154131f927b2752d05b87bf1692df6859ee646 f26c74f018dd84aba0fccabe389ea2040c8a0404 Sujina <> 1680005756 +0530	commit: Changes Header/Footer/Signature
+f26c74f018dd84aba0fccabe389ea2040c8a0404 234aa2e6e85fe57b8ef050e941d73504625ad4a3 Sujina <> 1680064371 +0530	pull origin mannmohan: Fast-forward
+234aa2e6e85fe57b8ef050e941d73504625ad4a3 b7c475131f094db2dfeb7f5399f780c5f18328bb Sujina <> 1680092312 +0530	commit: Account-Stamp,Account-Header
+b7c475131f094db2dfeb7f5399f780c5f18328bb 544247310b70d94e123143d07893ccb47938c4d3 Sujina <> 1680152440 +0530	pull origin devi: Merge made by the 'ort' strategy.
+544247310b70d94e123143d07893ccb47938c4d3 6996246e935f648d6f512155e2cb5022eee29cb6 Sujina <> 1680152626 +0530	pull origin devi: Merge made by the 'ort' strategy.
+6996246e935f648d6f512155e2cb5022eee29cb6 7f2632596e92e74e13b91a34bcfafeba8d8f98c3 Sujina <> 1680153210 +0530	pull origin devi: Merge made by the 'ort' strategy.
+7f2632596e92e74e13b91a34bcfafeba8d8f98c3 8d64c637795dfa6ba32dffdbe6cee9989b4cebb5 Sujina <> 1680153369 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+8d64c637795dfa6ba32dffdbe6cee9989b4cebb5 8ccc317ce21bd7ecdc45a45d733a425e5e7cbbcf Sujina <> 1680153540 +0530	commit: Stamp changes
+8ccc317ce21bd7ecdc45a45d733a425e5e7cbbcf db2e6a47610615f4f108f77efd6e358b0c948f6b Sujina <> 1680178514 +0530	commit: Settings-Stamp
+db2e6a47610615f4f108f77efd6e358b0c948f6b 7d9750fb0cd981b3633da9c05efe429a106498a3 Sujina <> 1680240165 +0530	pull origin mannmohan: Fast-forward
+7d9750fb0cd981b3633da9c05efe429a106498a3 6473f5efea38ae0a3175f6fcf78a63ff666130e1 Sujina <> 1680261786 +0530	commit: Privacy-settings
+6473f5efea38ae0a3175f6fcf78a63ff666130e1 71556d6bf50384be2501953b8b38081e11c20fef Sujina <> 1680499740 +0530	commit: Privacy UI
+71556d6bf50384be2501953b8b38081e11c20fef db845d74f747f66cb23a7a2390ae07563d658280 Sujina <> 1680503828 +0530	commit: Privacy UI
+db845d74f747f66cb23a7a2390ae07563d658280 0a37447b9bc550168187f2de9262372f8de50f65 Sujina <> 1680503845 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+0a37447b9bc550168187f2de9262372f8de50f65 3f21c4c38ad272adc9261fea2cd68aac6d2e8200 Sujina <> 1680524798 +0530	commit: Privacy,cloud changes
+3f21c4c38ad272adc9261fea2cd68aac6d2e8200 c17d3e125d998076a46b9c159fdc4d269cc7ccc5 Sujina <> 1680585962 +0530	pull origin mannmohan: Fast-forward
+c17d3e125d998076a46b9c159fdc4d269cc7ccc5 a97c35377b06db9cd6d91ef463a50825027528ef Sujina <> 1680607379 +0530	commit: Last seen,About,Group,Online api implementation
+a97c35377b06db9cd6d91ef463a50825027528ef e288c9d548f78ef45772f7620bc2b51d857ccb41 Sujina <> 1680670639 +0530	commit: Privacy changes
+e288c9d548f78ef45772f7620bc2b51d857ccb41 b56bcc2a0cf6f8fb36fd3f4104e0f1638372f0f7 Sujina <> 1680670653 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+b56bcc2a0cf6f8fb36fd3f4104e0f1638372f0f7 f0b50fe447cda018699f91cd6f4c042604d8dc45 Sujina <> 1680696834 +0530	commit: Privacy-Block,unblock,profie,read receipt
+f0b50fe447cda018699f91cd6f4c042604d8dc45 4afc5173a17ead10054b7bd456b3267266488490 Sujina <> 1680756422 +0530	pull origin mannmohan: Fast-forward
+4afc5173a17ead10054b7bd456b3267266488490 f5fc1e4b8d7e508db38d066026f0a160854206ed Sujina <> 1680780851 +0530	commit: Contact except screen
+f5fc1e4b8d7e508db38d066026f0a160854206ed b03cc8260e75905d2184b2babb79e862b0f4f7d6 Sujina <> 1681103365 +0530	pull origin devi: Merge made by the 'ort' strategy.
+b03cc8260e75905d2184b2babb79e862b0f4f7d6 c56ff5dd47ccef3184b2eaf60f6340ca43aaa2b3 Sujina <> 1681104844 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+c56ff5dd47ccef3184b2eaf60f6340ca43aaa2b3 7f79aba9b001191991f9d1cd9b2f63fd66be20df Sujina <> 1681130188 +0530	commit: privacy changes
+7f79aba9b001191991f9d1cd9b2f63fd66be20df 4ef93ebe20412533f24dcd8814ab8b11801cb5ba Sujina <> 1681187885 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+4ef93ebe20412533f24dcd8814ab8b11801cb5ba 8581e5576d93c33e547cb3cabdabdd244bb046f4 Sujina <> 1681215614 +0530	pull origin devi: Merge made by the 'ort' strategy.
+8581e5576d93c33e547cb3cabdabdd244bb046f4 0de372282866b472b2c3883920915e4c9d406810 Sujina <> 1681361074 +0530	commit: Privacy exclude contacts
+0de372282866b472b2c3883920915e4c9d406810 e1476933aedea0e67d844050b17a005eff1a1d28 Sujina <> 1681361112 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+e1476933aedea0e67d844050b17a005eff1a1d28 91fb3d494bcdaf33ce58cd8646e3d2d6e5606571 Sujina <> 1681388461 +0530	commit: Privacy contact except issue fix
+91fb3d494bcdaf33ce58cd8646e3d2d6e5606571 4f7d5b118345651131b88bbb5decb255650cd20e Sujina <> 1681710811 +0530	pull origin rishad: Fast-forward
+4f7d5b118345651131b88bbb5decb255650cd20e 2666d546df36b816be7e7b393d5d3e97cb01de35 Sujina <> 1681733484 +0530	commit: ConversationInfo UI changes
+2666d546df36b816be7e7b393d5d3e97cb01de35 028248200262dd0a440b652064dcd80029b58966 Sujina <> 1681794241 +0530	pull origin devi: Merge made by the 'ort' strategy.
+028248200262dd0a440b652064dcd80029b58966 62393835df317f8fbe53a61e6228386b79dd2383 Sujina <> 1681794421 +0530	pull origin kiran: Merge made by the 'ort' strategy.
+62393835df317f8fbe53a61e6228386b79dd2383 cda4b84a8ac847e6dd650841b1184967ce4267da Sujina <> 1681819665 +0530	commit: Cloud changes
+cda4b84a8ac847e6dd650841b1184967ce4267da 3712aab609d926fe66f4625bf275503f593c44a7 Sujina <> 1681880405 +0530	pull origin mannmohan: Fast-forward
+3712aab609d926fe66f4625bf275503f593c44a7 e2120ccac3f76a8158f8e45bdffec8c4d7d7a4b0 Sujina <> 1681906565 +0530	commit: Cloud updates
+e2120ccac3f76a8158f8e45bdffec8c4d7d7a4b0 747e77ff0238c3e6a52748cc3517f400f4469e7f Sujina <> 1681906675 +0530	pull origin mannmohan: Fast-forward
+747e77ff0238c3e6a52748cc3517f400f4469e7f 3ed7f08d9f12206c538a213220ab95c2bf499a9d Sujina <> 1681986435 +0530	commit: Cloud receiver change
+3ed7f08d9f12206c538a213220ab95c2bf499a9d 19025de28296096b8c67bc8b968a011477951755 Sujina <> 1681986504 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+19025de28296096b8c67bc8b968a011477951755 f0df9030ffaaba7a7f878e3ad510a7ec63ca4f1d Sujina <> 1682076275 +0530	commit: Cloud new api
+f0df9030ffaaba7a7f878e3ad510a7ec63ca4f1d 7e51be0dbe209d482e80e38db8835a7233d9d96b Sujina <> 1682076297 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+7e51be0dbe209d482e80e38db8835a7233d9d96b 515cecf8ecec18831e4fcb0f9ada277d1dcbcf86 Sujina <> 1682331662 +0530	commit: Cloud view
+515cecf8ecec18831e4fcb0f9ada277d1dcbcf86 316369e45451adeb36fa5a07d858731ae63fbe17 Sujina <> 1682331683 +0530	pull origin kiran: Merge made by the 'ort' strategy.
+316369e45451adeb36fa5a07d858731ae63fbe17 dbb5c25dd1baf64dc6169d42ded4ef581356a477 Sujina <> 1682339130 +0530	commit: Cloud changes
+dbb5c25dd1baf64dc6169d42ded4ef581356a477 cbd151864d2fe5403afd7f9a72f7f722ed09f344 Sujina <> 1682398724 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+cbd151864d2fe5403afd7f9a72f7f722ed09f344 53d7cdb4ffb78d255f18787b598ed087d6eda0ff Sujina <> 1682425363 +0530	commit: Create Profile changes
+53d7cdb4ffb78d255f18787b598ed087d6eda0ff c5ee673ebb4c359cf6f6938e69442906b0345e1c Sujina <> 1682490996 +0530	pull origin mannmohan: Fast-forward
+c5ee673ebb4c359cf6f6938e69442906b0345e1c 99f58cfd01d5db3cb5856cebc528522e673ca65c Sujina <> 1682491732 +0530	pull origin mannmohan: Fast-forward
+99f58cfd01d5db3cb5856cebc528522e673ca65c 5f2fbd1ef7e08ccdd0e7251e77acb8fcabbaf04d Sujina <> 1682508471 +0530	commit: iOS file changes(info,appdelegate)
+5f2fbd1ef7e08ccdd0e7251e77acb8fcabbaf04d 810c242f38940f044106cf1a46dbd643214c14ed Sujina <> 1682572290 +0530	commit: Launcher Icon change
+810c242f38940f044106cf1a46dbd643214c14ed cc2588fd299f6589b6ec694d1f629084d6a96578 Sujina <> 1682572439 +0530	pull origin kiran: Merge made by the 'ort' strategy.
+cc2588fd299f6589b6ec694d1f629084d6a96578 fc960106a3917ac93beb1641b99c873b00f94611 Sujina <> 1682654859 +0530	commit: Contact permission
+fc960106a3917ac93beb1641b99c873b00f94611 5468bee4bc9dd979da73158bbd0e4203da7c0b62 Sujina <> 1682658202 +0530	commit (merge): ios build
+5468bee4bc9dd979da73158bbd0e4203da7c0b62 107de0bd22d79e893095bbb71f43f1edb683bc9b Sujina <> 1682658865 +0530	pull origin main: Merge made by the 'ort' strategy.
+107de0bd22d79e893095bbb71f43f1edb683bc9b 1c0eecf42e3308eabb54690d3302f951364d4426 Sujina <> 1682921671 +0530	commit: iOS checking
+1c0eecf42e3308eabb54690d3302f951364d4426 93fb771383207f966efdcfdb3a7ae133932b4fc4 Sujina <> 1683091569 +0530	pull origin main: Merge made by the 'ort' strategy.
+93fb771383207f966efdcfdb3a7ae133932b4fc4 0b79de29f3f7a941da4ddd27e923bfcabf750f94 Sujina <> 1683091982 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+0b79de29f3f7a941da4ddd27e923bfcabf750f94 de8c3211bf6b0306588195fa4d37d83a11605b6a Sujina <> 1683105861 +0530	commit: Cloud top section
+de8c3211bf6b0306588195fa4d37d83a11605b6a 252dd13d724d4014c1669ab7733b72c14ba3eeca Sujina <> 1683265605 +0530	pull origin mannmohan: Fast-forward
+252dd13d724d4014c1669ab7733b72c14ba3eeca 2b2b8a0a34a7493774f45c99cd89ce0d54e67bcf Sujina <> 1683265628 +0530	pull origin main: Fast-forward
+2b2b8a0a34a7493774f45c99cd89ce0d54e67bcf 14cb44984c591fdc1675960a1c01a9c12735c13f Sujina <> 1683521719 +0530	commit: Cloud top bar
+14cb44984c591fdc1675960a1c01a9c12735c13f e762d9fb1a00ece567fcfb6dee40b866e0fe5448 Sujina <> 1683522214 +0530	pull origin main: Merge made by the 'ort' strategy.
+e762d9fb1a00ece567fcfb6dee40b866e0fe5448 3379f40a1f31e40d1867570cb23c1487415522dc Sujina <> 1683607921 +0530	pull origin main: Merge made by the 'ort' strategy.
+3379f40a1f31e40d1867570cb23c1487415522dc 666ca778c1e1f4cd0a24e8401d594e32a2071a13 Sujina <> 1683609208 +0530	pull origin main: Merge made by the 'ort' strategy.
+666ca778c1e1f4cd0a24e8401d594e32a2071a13 a49180ac2ae2ee0a7182bc1d1f8c97c84d06125c Sujina <> 1683693675 +0530	commit: cloud
+a49180ac2ae2ee0a7182bc1d1f8c97c84d06125c 4f6a6dc4882c29139dc3122bac49122d6820e287 Sujina <> 1683694033 +0530	pull origin main: Merge made by the 'ort' strategy.
+4f6a6dc4882c29139dc3122bac49122d6820e287 3c7d99070eb9766e6efb01bfca86c5964ff6407a Sujina <> 1683695247 +0530	pull origin main: Merge made by the 'ort' strategy.
+3c7d99070eb9766e6efb01bfca86c5964ff6407a c50fad57e4bb74c6bbb38e62f05be84b8959aec9 Sujina <> 1683780057 +0530	commit: cloud
+c50fad57e4bb74c6bbb38e62f05be84b8959aec9 34c47a660c16aa2bcd1a45c11025c65757846af0 Sujina <> 1683780083 +0530	pull origin main: Merge made by the 'ort' strategy.
+34c47a660c16aa2bcd1a45c11025c65757846af0 c4791bd0ed356f054234a3a5aba7e2f677fa51e9 Sujina <> 1683804508 +0530	commit: cloud
+c4791bd0ed356f054234a3a5aba7e2f677fa51e9 2bd4343f41c016200d5a36560533588f1740e576 Sujina <> 1683806182 +0530	pull origin main: Merge made by the 'ort' strategy.
+2bd4343f41c016200d5a36560533588f1740e576 a44ec0bd11530c1594c2bf8ff783b9e5f9f8ccac Sujina <> 1683806634 +0530	pull origin main: Merge made by the 'ort' strategy.
+a44ec0bd11530c1594c2bf8ff783b9e5f9f8ccac 3b05df1bfb4f922f266c175dbaf6a8e50fbe0fe2 Sujina <> 1684213083 +0530	commit: Podfile changes,cloud design
+3b05df1bfb4f922f266c175dbaf6a8e50fbe0fe2 c707382599fd6e71f29c22ad3622fbc2be473054 Sujina <> 1684299413 +0530	commit (merge): cloud rollback design
+c707382599fd6e71f29c22ad3622fbc2be473054 0010d20a1d57d65959d93202ee7a40532a60dba3 Sujina <> 1684299557 +0530	pull origin main: Merge made by the 'ort' strategy.
+0010d20a1d57d65959d93202ee7a40532a60dba3 4304d451e2303445b66fc4d0e962b25c1e39d53e Sujina <> 1684411068 +0530	commit: changes
+4304d451e2303445b66fc4d0e962b25c1e39d53e 39cf905db8757bca421000fee07338207c72ab22 Sujina <> 1684411114 +0530	pull origin mannmohan: Merge made by the 'ort' strategy.
+39cf905db8757bca421000fee07338207c72ab22 bc566f1c64b102f3edd98f6143dd856594ec0185 Sujina <> 1684412895 +0530	pull origin main: Fast-forward
+bc566f1c64b102f3edd98f6143dd856594ec0185 5cbbd5fd1d22cbbad702561cb31e0a525cf37d86 Sujina <> 1684750858 +0530	pull origin main: Fast-forward
+5cbbd5fd1d22cbbad702561cb31e0a525cf37d86 603f72e9953815dbe2c75ece932ca48ccb50514c Sujina <> 1684824189 +0530	pull origin main: Fast-forward
+603f72e9953815dbe2c75ece932ca48ccb50514c 0426be199c0c494cdab52ab4519b4986a5bd6432 Sujina <> 1684844284 +0530	commit: cloud design
+0426be199c0c494cdab52ab4519b4986a5bd6432 8dbd3ad767e1be4a844d599c0befa3bca42813d5 Sujina <> 1684904310 +0530	pull origin main: Merge made by the 'ort' strategy.
+8dbd3ad767e1be4a844d599c0befa3bca42813d5 1868f3d5f3089c18ed09eda240fc11b77cdf6c46 Sujina <> 1684930251 +0530	commit: ios changes
+1868f3d5f3089c18ed09eda240fc11b77cdf6c46 87ee559c6f5d840e1057ef475ae1104e0eb942da Sujina <> 1684990670 +0530	pull origin main: Fast-forward
+87ee559c6f5d840e1057ef475ae1104e0eb942da 0a39c1d54866efd4a5cb64161ad2b2bf1b821e88 Sujina <> 1685008819 +0530	commit: iOS changes
+0a39c1d54866efd4a5cb64161ad2b2bf1b821e88 c0adb6f8573fc362d85b5905a2ecad366b060bcc Sujina <> 1685008838 +0530	pull origin main: Merge made by the 'ort' strategy.
+c0adb6f8573fc362d85b5905a2ecad366b060bcc b3b4aab8733d90ad86d2ec9cfe325c39dfe91f5f Sujina <> 1685015603 +0530	pull origin main: Merge made by the 'ort' strategy.
+b3b4aab8733d90ad86d2ec9cfe325c39dfe91f5f d1d903460edcb33802b7f316057f651c8ab8b28f Sujina <> 1685073937 +0530	commit: ios changes
+d1d903460edcb33802b7f316057f651c8ab8b28f e6e70105ecf1a5dfa7089e078bfd46764abf44d5 Sujina <> 1685098007 +0530	commit: Ios changes
+e6e70105ecf1a5dfa7089e078bfd46764abf44d5 6887c57360b1cc828bd410fb7c1878c222577191 Sujina <> 1685098066 +0530	pull origin main: Merge made by the 'ort' strategy.
+6887c57360b1cc828bd410fb7c1878c222577191 c606c2738d079ec94ac5f864df5b1bab30cf366e Sujina <> 1685336659 +0530	pull origin main: Fast-forward
+c606c2738d079ec94ac5f864df5b1bab30cf366e 032adc1dee9d244fad09d6458c32b30c21d9b5ed Sujina <> 1685340369 +0530	pull origin main: Fast-forward
+032adc1dee9d244fad09d6458c32b30c21d9b5ed 86b21b6691ac0a16595e2e352b8bad3646199ef0 Sujina <> 1685341835 +0530	pull origin main: Fast-forward
+86b21b6691ac0a16595e2e352b8bad3646199ef0 c3e29db69bdee69cedcdee10a324e1ac55e65a92 Sujina <> 1685425219 +0530	pull origin main: Fast-forward
+c3e29db69bdee69cedcdee10a324e1ac55e65a92 84fee059b5d05839aa98d55c897ac8f58d7cb017 Sujina <> 1685427415 +0530	pull origin main: Fast-forward
+84fee059b5d05839aa98d55c897ac8f58d7cb017 7b2156d9c5454ab266cdbf34cf1a4d9e43b9055f Sujina <> 1685431088 +0530	commit: Individual Export chat
+7b2156d9c5454ab266cdbf34cf1a4d9e43b9055f c3fb5371989d52ec9834d8f38af711886a565955 Sujina <> 1685433863 +0530	commit: GROUP Chat Export
+c3fb5371989d52ec9834d8f38af711886a565955 537fcec810519bcfd9bf672305ebf30a2b1661e6 Sujina <> 1685447654 +0530	pull origin main: Merge made by the 'ort' strategy.
+537fcec810519bcfd9bf672305ebf30a2b1661e6 c444ae83af45bcf58d70efe084e4893654a4b713 Sujina <> 1685512833 +0530	pull origin main: Fast-forward
+c444ae83af45bcf58d70efe084e4893654a4b713 a918b7e7667cfb2ba716bbcad9edae08cb01111f Sujina <> 1685513707 +0530	commit: privacy
+a918b7e7667cfb2ba716bbcad9edae08cb01111f e6e4da43d55605ffaf7370975d9403d83e1c4bbe Sujina <> 1685513760 +0530	pull origin main: Merge made by the 'ort' strategy.
+e6e4da43d55605ffaf7370975d9403d83e1c4bbe 8ceec055968ef9e5abb38a0e7553d04bef367e20 Sujina <> 1685517077 +0530	pull origin main: Merge made by the 'ort' strategy.
+8ceec055968ef9e5abb38a0e7553d04bef367e20 e7dbdfb9533a920de93ce2ef3b139e86cb0e6252 Sujina <> 1685521589 +0530	pull origin main: Merge made by the 'ort' strategy.
+e7dbdfb9533a920de93ce2ef3b139e86cb0e6252 fe0a6911cd4b796bb0d1cad4d7650823e8f827ba Sujina <> 1685592590 +0530	pull origin main: Merge made by the 'ort' strategy.
+fe0a6911cd4b796bb0d1cad4d7650823e8f827ba 51f0380d7d3ffeeb3d6b1b25aac95cff9f8275a6 Sujina <> 1685684021 +0530	commit (merge): Cloud contact name change
+51f0380d7d3ffeeb3d6b1b25aac95cff9f8275a6 b24747c1131e9e21425480c1be1d3cc379529b70 Sujina <> 1685941639 +0530	pull origin main: Fast-forward
+b24747c1131e9e21425480c1be1d3cc379529b70 72f35e8433a407122bd513a99c5d09ba1a5e4bc5 Sujina <> 1685966996 +0530	pull origin main: Fast-forward
+72f35e8433a407122bd513a99c5d09ba1a5e4bc5 21c8006d34d8aa546d0c95de3e808f38f2de556c Sujina <> 1686027892 +0530	pull origin main: Fast-forward
+21c8006d34d8aa546d0c95de3e808f38f2de556c 55d18281e462b1fb76e29d18d893cc8d91e229ad Sujina <> 1686036388 +0530	pull origin main: Fast-forward
+55d18281e462b1fb76e29d18d893cc8d91e229ad 46edb0424d4eefe952bb2c1cf62e42c00c509a35 Sujina <> 1686111350 +0530	pull origin main: Fast-forward
+46edb0424d4eefe952bb2c1cf62e42c00c509a35 793c92cc3a7445ae23a8cd621471e858e3d824d8 Sujina <> 1686199536 +0530	pull origin main: Fast-forward
+793c92cc3a7445ae23a8cd621471e858e3d824d8 5f21811ed1825d063e0c85c4e9afa806af80b2ba Sujina <> 1686227411 +0530	pull origin main: Fast-forward
+5f21811ed1825d063e0c85c4e9afa806af80b2ba 2d8a1c955bdcc58a30d11b932bae7a47e5d12415 Sujina <> 1686286686 +0530	pull origin main: Fast-forward
+2d8a1c955bdcc58a30d11b932bae7a47e5d12415 4dda072662789683757d6ad4fa5efc6af6e34880 Sujina <> 1686309810 +0530	pull origin main: Fast-forward
+4dda072662789683757d6ad4fa5efc6af6e34880 c002ecf5ee3215ed3b60748c05b3aaa8f6ec8ca4 Sujina <> 1686561933 +0530	commit: changes
+c002ecf5ee3215ed3b60748c05b3aaa8f6ec8ca4 f26837de59962d6ba7965bc2cd0c4a6c6445558e Sujina <> 1686561950 +0530	pull origin main: Merge made by the 'ort' strategy.
+f26837de59962d6ba7965bc2cd0c4a6c6445558e d088278a9d8f97f10945bc1953ad3e65c50c651e Sujina <> 1686633115 +0530	commit: changes
+d088278a9d8f97f10945bc1953ad3e65c50c651e b9e7f6ebf68cbbde82cbc943cfcceca4ffd2ec58 Sujina <> 1686633132 +0530	pull origin main: Merge made by the 'ort' strategy.
+b9e7f6ebf68cbbde82cbc943cfcceca4ffd2ec58 6cfc9577a9e9085160aadb6ba1f7bcc3b0490fb3 Sujina <> 1686735115 +0530	commit (merge): changes
+6cfc9577a9e9085160aadb6ba1f7bcc3b0490fb3 f2eb04df4447f952f59e676e91d44693a0393df7 Sujina <> 1686752107 +0530	commit: changes
+f2eb04df4447f952f59e676e91d44693a0393df7 d599b32a1a8a33a4832b4facbe53b4f0ac8a37b1 Sujina <> 1686752365 +0530	commit: changes
+d599b32a1a8a33a4832b4facbe53b4f0ac8a37b1 c00cafeed4c1e1ec5b989bc6037ab4d62d5154f2 Sujina <> 1686753150 +0530	commit: cloud
+c00cafeed4c1e1ec5b989bc6037ab4d62d5154f2 6e8f03e62959db30fbda2eeba32e427e7ed39596 Sujina <> 1686761973 +0530	commit (merge): changes
+6e8f03e62959db30fbda2eeba32e427e7ed39596 1942b22aa1761040c7d17052b41fb9c309f6fef8 Sujina <> 1686762117 +0530	commit: changes
+1942b22aa1761040c7d17052b41fb9c309f6fef8 17d84b497b4b0edb25e09bd7534ea5ae8e987e1b Sujina <> 1686804014 +0530	commit: changes
+17d84b497b4b0edb25e09bd7534ea5ae8e987e1b 66b05cc54d622822f0433e3efe6a5a997657dd21 Sujina <> 1686828190 +0530	commit: Cloud file search
+66b05cc54d622822f0433e3efe6a5a997657dd21 6bc0a75a373ce75fe20c8564cde2c7e6c303da0b Sujina <> 1686828214 +0530	pull origin main: Merge made by the 'ort' strategy.
+6bc0a75a373ce75fe20c8564cde2c7e6c303da0b 5908184833dd7a5b2387a82cb4438f10ae92b648 Sujina <> 1686910801 +0530	commit: contact
+5908184833dd7a5b2387a82cb4438f10ae92b648 45c52e37aeaffcdb9cdc5a5b261ce69aafae0155 Sujina <> 1686910831 +0530	pull origin main: Merge made by the 'ort' strategy.
+45c52e37aeaffcdb9cdc5a5b261ce69aafae0155 97b90ef3d4d4a597c30b6af8c6db92fc5a9b7618 Sujina <> 1686911423 +0530	commit: changes
+97b90ef3d4d4a597c30b6af8c6db92fc5a9b7618 9d10e9c5dc6db3358fe80e97a08ff025f642385f Sujina <> 1686916350 +0530	pull origin main: Fast-forward
+9d10e9c5dc6db3358fe80e97a08ff025f642385f da5a71cb825496a6ad25808cd7e643f5b35ac5c8 Sujina <> 1686916651 +0530	commit: Media close

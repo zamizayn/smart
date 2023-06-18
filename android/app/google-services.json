@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "452578317638",
+    "project_id": "smartstation-374b5",
+    "storage_bucket": "smartstation-374b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452578317638:android:c7754a635d4a70aff54147",
+        "android_client_info": {
+          "package_name": "com.cal.smartstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452578317638-nvb6cjsans809dlbkc6nmsnd3t57iknp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2CZdYd3bEVLoMeIJ9XRmKZx_9PmNubU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452578317638-nvb6cjsans809dlbkc6nmsnd3t57iknp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "452578317638-ahld05gajp2rr9nv5aalu8nq12kvc8dl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cal.smartstation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
